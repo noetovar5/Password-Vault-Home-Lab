@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Password-Vault-Home-Lab
+"/>
+<brk/>
 # Password-Vault-Home-Lab
 KB on home lab Password vault
 
